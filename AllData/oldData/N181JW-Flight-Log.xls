@@ -1,0 +1,230 @@
+Date	Origin	Dest	Depart	Arrive	Hobbs	Flight Time	Flight Distance	Fuel	Fuel/hr	Fuel/nm	Altitude	Speed
+Wed, May 11, 2016			18:15	18:15	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, May 11, 2016	KBED	KBED	17:56	17:59	0.04 hrs	0.00 hrs	0.00 nm	0.14 gal	3.30 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, May 11, 2016	KHVN	KBED	16:46	17:54	1.09 hrs	0.83 hrs	131.09 nm	13.82 gal	12.71 gal/hr	0.11 gal/nm	7014 msl	151 kts
+Wed, May 11, 2016	KMTN	KHVN	14:35	16:24	1.76 hrs	1.43 hrs	236.94 nm	26.41 gal	15.05 gal/hr	0.11 gal/nm	7015 msl	160 kts
+Wed, May 11, 2016			14:25	14:26	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, May 11, 2016	N67	KMTN	08:22	09:21	0.94 hrs	0.69 hrs	106.63 nm	13.60 gal	14.52 gal/hr	0.13 gal/nm	8013 msl	146 kts
+Wed, May 11, 2016			08:11	08:12	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, May 10, 2016	KHVN	N67	09:42	10:58	1.22 hrs	0.97 hrs	150.12 nm	18.48 gal	15.13 gal/hr	0.12 gal/nm	6017 msl	151 kts
+Tue, May 10, 2016	KPVD	KHVN	08:48	09:32	0.71 hrs	0.53 hrs	77.43 nm	10.65 gal	14.97 gal/hr	0.14 gal/nm	6018 msl	141 kts
+Tue, May 10, 2016			08:36	08:37	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, May 9, 2016			17:36	17:36	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, May 6, 2016	KPSM	KPVD	19:32	20:36	1.03 hrs	0.79 hrs	116.00 nm	15.09 gal	14.70 gal/hr	0.13 gal/nm	6015 msl	141 kts
+Fri, May 6, 2016			19:26	19:26	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, May 6, 2016	KPVD	KPSM	17:32	18:22	0.8 hrs	0.56 hrs	92.57 nm	11.86 gal	14.77 gal/hr	0.13 gal/nm	7013 msl	160 kts
+Fri, May 6, 2016			17:28	17:28	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, May 6, 2016	KBFD	KPVD	13:29	16:34	2.95 hrs	2.71 hrs	396.10 nm	46.10 gal	15.64 gal/hr	0.12 gal/nm	7049 msl	140 kts
+Fri, May 6, 2016	KFQD	KBFD	09:15	12:30	3.13 hrs	2.87 hrs	418.79 nm	47.79 gal	15.29 gal/hr	0.11 gal/nm	9011 msl	140 kts
+Fri, May 6, 2016			08:52	08:53	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, May 5, 2016	KAPF	KFQD	08:46	12:54	3.96 hrs	3.60 hrs	574.41 nm	60.24 gal	15.20 gal/hr	0.10 gal/nm	11008 msl	153 kts
+Thu, May 5, 2016			08:34	08:34	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Apr 30, 2016	KJZI	KAPF	14:24	17:12	2.7 hrs	2.43 hrs	437.66 nm	46.22 gal	17.12 gal/hr	0.11 gal/nm	14025 msl	173 kts
+Sat, Apr 30, 2016			14:13	14:14	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Apr 30, 2016	KPVD	KJZI	07:05	12:36	4.33 hrs	4.12 hrs	716.22 nm	82.78 gal	19.12 gal/hr	0.12 gal/nm	8521 msl	166 kts
+Sat, Apr 30, 2016			06:57	06:58	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Apr 29, 2016			17:32	17:32	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Apr 29, 2016			17:22	17:22	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Apr 29, 2016	KBED	KPVD	16:41	17:41	0.64 hrs	0.32 hrs	46.30 nm	6.61 gal	10.38 gal/hr	0.14 gal/nm	3007 msl	135 kts
+Fri, Apr 29, 2016	KBED	KBED	12:51	13:03	0.19 hrs	0.00 hrs	0.00 nm	1.07 gal	5.54 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Apr 28, 2016			12:55	12:56	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Apr 27, 2016			12:24	12:24	0 hrs	0.00 hrs	0.00 nm	0.00 gal	1.48 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Apr 27, 2016			10:42	10:43	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Apr 27, 2016			08:59	09:01	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Apr 26, 2016			14:44	14:45	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Apr 26, 2016			13:10	13:13	0.05 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Apr 26, 2016			12:52	12:54	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Apr 26, 2016			12:22	12:22	0.01 hrs	0.00 hrs	0.00 nm	0.02 gal	2.13 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Apr 26, 2016	KBED	KBED	08:47	09:04	0.28 hrs	0.00 hrs	0.00 nm	2.16 gal	7.67 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Apr 25, 2016	KGWW	KBED	12:03	15:22	3.17 hrs	2.95 hrs	547.14 nm	55.97 gal	17.66 gal/hr	0.10 gal/nm	7010 msl	177 kts
+Mon, Apr 25, 2016	KLEE	KGWW	08:53	11:48	2.82 hrs	2.56 hrs	462.11 nm	48.34 gal	17.15 gal/hr	0.10 gal/nm	9029 msl	173 kts
+Mon, Apr 25, 2016	KLEE	KLEE	08:36	08:36	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Apr 15, 2016	KGWW	KLEE	10:35	13:28	2.73 hrs	2.55 hrs	476.26 nm	49.13 gal	17.97 gal/hr	0.10 gal/nm	6098 msl	177 kts
+Fri, Apr 15, 2016	KBED	KGWW	05:55	10:22	3.31 hrs	2.90 hrs	553.21 nm	55.82 gal	16.85 gal/hr	0.10 gal/nm	6025 msl	184 kts
+Fri, Apr 15, 2016			05:35	05:35	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Apr 14, 2016			10:22	10:23	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Apr 14, 2016			09:27	09:28	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Apr 13, 2016			11:40	13:32	1.86 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Apr 10, 2016	KBED	KBED	15:11	15:13	0.04 hrs	0.00 hrs	0.00 nm	0.10 gal	2.54 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Apr 10, 2016	KBGR	KBED	13:35	14:58	1.33 hrs	1.14 hrs	182.15 nm	21.81 gal	16.36 gal/hr	0.12 gal/nm	8065 msl	154 kts
+Sun, Apr 10, 2016	KBED	KBGR	12:01	13:20	1.26 hrs	1.03 hrs	178.82 nm	15.97 gal	12.64 gal/hr	0.09 gal/nm	7650 msl	165 kts
+Fri, Apr 8, 2016			13:23	13:23	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Apr 2, 2016	KBTV	KBED	16:58	18:18	1.28 hrs	0.92 hrs	160.06 nm	18.72 gal	14.66 gal/hr	0.12 gal/nm	7016 msl	167 kts
+Sat, Apr 2, 2016	KBED	KBTV	07:04	08:25	1.31 hrs	1.03 hrs	158.30 nm	19.84 gal	15.16 gal/hr	0.13 gal/nm	7021 msl	148 kts
+Sat, Apr 2, 2016	KBED	KBED	06:48	10:48	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Mar 31, 2016			17:28	17:30	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Mar 31, 2016			12:42	12:44	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Mar 26, 2016	KBED	KBED	17:03	22:31	1.42 hrs	0.88 hrs	129.63 nm	14.31 gal	10.09 gal/hr	0.11 gal/nm	4507 msl	141 kts
+Sat, Mar 26, 2016			16:42	16:42	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Mar 22, 2016	KGWW	KBED	13:27	16:41	3.1 hrs	2.90 hrs	553.22 nm	57.15 gal	18.45 gal/hr	0.10 gal/nm	11014 msl	183 kts
+Tue, Mar 22, 2016	KLEE	KGWW	10:24	13:13	2.73 hrs	2.52 hrs	467.34 nm	49.42 gal	18.14 gal/hr	0.11 gal/nm	11025 msl	180 kts
+Tue, Mar 22, 2016	KLEE	KLEE	10:10	10:10	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Mar 19, 2016	KLEE	KLEE	15:58	17:23	1.36 hrs	1.11 hrs	180.07 nm	21.37 gal	15.68 gal/hr	0.12 gal/nm	4771 msl	157 kts
+Sat, Mar 19, 2016	KLEE	KLEE	15:50	15:50	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Mar 18, 2016	KGWW	KLEE	10:42	13:51	3.02 hrs	2.77 hrs	484.46 nm	52.89 gal	17.50 gal/hr	0.11 gal/nm	6021 msl	168 kts
+Fri, Mar 18, 2016	KBED	KGWW	06:49	10:30	3.52 hrs	3.23 hrs	551.58 nm	61.79 gal	17.56 gal/hr	0.11 gal/nm	6130 msl	163 kts
+Fri, Mar 18, 2016			06:32	06:32	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Mar 13, 2016	KGWW	KBED	14:47	17:58	3.06 hrs	2.83 hrs	538.45 nm	57.08 gal	18.68 gal/hr	0.11 gal/nm	11078 msl	182 kts
+Sun, Mar 13, 2016	KLEE	KGWW	10:59	14:36	2.54 hrs	2.25 hrs	460.18 nm	62.12 gal	24.44 gal/hr	0.13 gal/nm	11007 msl	198 kts
+Sun, Mar 13, 2016	KLEE	KLEE	10:45	10:46	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Mar 11, 2016	KGNV	KLEE	16:37	17:17	0.63 hrs	0.41 hrs	62.16 nm	9.25 gal	14.71 gal/hr	0.15 gal/nm	3019 msl	141 kts
+Fri, Mar 11, 2016	KGWW	KGNV	10:35	13:22	2.64 hrs	2.44 hrs	433.19 nm	48.90 gal	18.52 gal/hr	0.11 gal/nm	10020 msl	168 kts
+Fri, Mar 11, 2016	KBED	KGWW	06:41	10:16	3.43 hrs	3.07 hrs	543.77 nm	58.07 gal	16.91 gal/hr	0.11 gal/nm	6058 msl	170 kts
+Fri, Mar 11, 2016			06:14	06:14	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Mar 6, 2016	KBED	KBED	15:31	15:33	0.05 hrs	0.00 hrs	0.00 nm	0.13 gal	2.75 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Mar 6, 2016	KALB	KBED	14:23	15:20	0.89 hrs	0.71 hrs	117.90 nm	13.57 gal	15.33 gal/hr	0.12 gal/nm	7017 msl	157 kts
+Sun, Mar 6, 2016	KALB	KALB	14:19	14:20	0.03 hrs	0.00 hrs	0.00 nm	0.05 gal	1.89 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Mar 6, 2016	KBED	KALB	13:00	13:58	0.94 hrs	0.71 hrs	114.52 nm	13.93 gal	14.82 gal/hr	0.12 gal/nm	6685 msl	155 kts
+Sat, Mar 5, 2016	KRUT	KBED	17:06	18:42	1.52 hrs	1.29 hrs	222.30 nm	25.22 gal	16.61 gal/hr	0.11 gal/nm	5513 msl	163 kts
+Sat, Mar 5, 2016	KBED	KRUT	15:46	16:49	1 hrs	0.64 hrs	101.56 nm	13.05 gal	13.05 gal/hr	0.13 gal/nm	4512 msl	151 kts
+Sat, Mar 5, 2016			15:33	15:33	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Mar 4, 2016	KBED	KBED	14:59	15:01	0.04 hrs	0.00 hrs	0.00 nm	0.09 gal	2.55 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Mar 4, 2016			14:00	14:01	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Mar 4, 2016	KBED	KBED	11:11	11:17	0.12 hrs	0.00 hrs	0.00 nm	0.44 gal	3.79 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Mar 3, 2016			08:50	08:54	0.07 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Mar 2, 2016	KFRG	KBED	19:44	21:08	1.36 hrs	1.03 hrs	158.49 nm	18.01 gal	13.28 gal/hr	0.11 gal/nm	7019 msl	148 kts
+Wed, Mar 2, 2016			19:38	19:38	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Mar 1, 2016	KBED	KFRG	08:40	10:02	1.3 hrs	0.98 hrs	147.73 nm	17.38 gal	13.33 gal/hr	0.12 gal/nm	6065 msl	145 kts
+Tue, Mar 1, 2016			08:22	08:22	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Feb 28, 2016	KBED	KBED	14:41	16:09	1.39 hrs	1.04 hrs	165.66 nm	17.56 gal	12.60 gal/hr	0.11 gal/nm	3254 msl	152 kts
+Sun, Feb 28, 2016			14:32	14:32	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Feb 22, 2016	KVYS	KBED	13:34	17:43	4 hrs	3.78 hrs	814.48 nm	72.73 gal	18.20 gal/hr	0.09 gal/nm	11082 msl	208 kts
+Mon, Feb 22, 2016	KHDN	KVYS	08:39	13:08	4.29 hrs	3.91 hrs	838.60 nm	75.90 gal	17.69 gal/hr	0.09 gal/nm	15015 msl	206 kts
+Mon, Feb 22, 2016			08:10	08:11	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Feb 10, 2016	KHDN	KHDN	18:27	18:35	0.14 hrs	0.00 hrs	0.00 nm	0.42 gal	3.13 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Feb 10, 2016	49Y	KHDN	13:24	18:15	4.67 hrs	4.41 hrs	697.82 nm	84.00 gal	17.98 gal/hr	0.12 gal/nm	15175 msl	153 kts
+Wed, Feb 10, 2016			13:00	13:01	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Feb 9, 2016	16G	49Y	19:10	21:58	2.7 hrs	2.53 hrs	439.46 nm	52.26 gal	19.37 gal/hr	0.12 gal/nm	16140 msl	168 kts
+Tue, Feb 9, 2016	KBED	16G	15:20	18:58	3.48 hrs	3.09 hrs	548.03 nm	62.22 gal	17.88 gal/hr	0.11 gal/nm	16099 msl	170 kts
+Tue, Feb 9, 2016	KBED	KBED	15:02	15:02	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Feb 6, 2016			19:45	19:46	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Feb 6, 2016	KBED	KBED	15:19	20:19	1.36 hrs	0.94 hrs	142.99 nm	16.84 gal	12.43 gal/hr	0.12 gal/nm	3205 msl	148 kts
+Wed, Feb 3, 2016			15:49	15:51	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Feb 3, 2016			13:06	13:07	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Jan 31, 2016	KBED	KBED	18:20	20:14	1.83 hrs	1.19 hrs	178.27 nm	22.02 gal	12.07 gal/hr	0.12 gal/nm	6012 msl	145 kts
+Sun, Jan 31, 2016	KBED	KBED	17:41	17:44	0.06 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 22, 2016			13:55	18:57	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 22, 2016			13:45	13:48	0.06 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 22, 2016			13:38	13:44	0.11 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 22, 2016			13:34	13:37	0.05 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 22, 2016			07:05	10:06	3.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Jan 21, 2016	KBED	KBED	14:46	14:53	0.12 hrs	0.00 hrs	0.00 nm	0.39 gal	3.29 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Jan 19, 2016	KVYS	KBED	14:15	18:59	4.55 hrs	4.33 hrs	818.00 nm	83.65 gal	18.38 gal/hr	0.10 gal/nm	11010 msl	182 kts
+Tue, Jan 19, 2016	KHDN	KVYS	09:14	13:51	4.44 hrs	4.11 hrs	876.46 nm	79.99 gal	18.01 gal/hr	0.09 gal/nm	17138 msl	206 kts
+Tue, Jan 19, 2016			08:48	08:48	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 15, 2016			19:48	19:49	0.02 hrs	0.00 hrs	0.00 nm	0.12 gal	5.09 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 15, 2016	KHDN	KHDN	19:15	19:22	0.11 hrs	0.00 hrs	0.00 nm	0.34 gal	3.20 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Jan 15, 2016	KOFK	KHDN	15:37	18:48	3.09 hrs	2.92 hrs	483.55 nm	57.23 gal	18.50 gal/hr	0.12 gal/nm	15097 msl	161 kts
+Fri, Jan 15, 2016	KFDY	KOFK	11:07	15:21	4.08 hrs	3.82 hrs	632.51 nm	73.71 gal	18.07 gal/hr	0.12 gal/nm	12131 msl	160 kts
+Fri, Jan 15, 2016	KBED	KFDY	06:18	10:46	4.26 hrs	3.73 hrs	586.46 nm	75.17 gal	17.67 gal/hr	0.13 gal/nm	16018 msl	150 kts
+Fri, Jan 15, 2016			05:55	05:57	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Jan 14, 2016			16:45	16:52	0.12 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Jan 13, 2016	KBED	KBED	18:14	19:29	1.23 hrs	0.73 hrs	113.06 nm	14.27 gal	11.57 gal/hr	0.13 gal/nm	4225 msl	152 kts
+Wed, Jan 13, 2016			17:48	17:50	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Jan 9, 2016			18:03	18:03	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Jan 9, 2016	KBOS	KBED	16:55	17:33	0.62 hrs	0.36 hrs	48.77 nm	6.21 gal	9.98 gal/hr	0.13 gal/nm	3010 msl	134 kts
+Sat, Jan 9, 2016	KBGR	KBOS	14:57	16:36	1.59 hrs	1.35 hrs	207.48 nm	24.24 gal	15.30 gal/hr	0.12 gal/nm	8008 msl	147 kts
+Sat, Jan 9, 2016	KBED	KBGR	14:12	19:12	1.37 hrs	1.08 hrs	193.11 nm	14.39 gal	10.54 gal/hr	0.07 gal/nm	9017 msl	173 kts
+Thu, Jan 7, 2016			17:31	17:32	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Jan 7, 2016			17:30	17:30	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Jan 7, 2016			17:27	17:29	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Jan 7, 2016			17:03	17:04	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Jan 6, 2016	KBED	KBED	16:24	22:41	1.25 hrs	0.70 hrs	99.40 nm	12.91 gal	10.34 gal/hr	0.13 gal/nm	6506 msl	140 kts
+Sat, Jan 2, 2016			17:11	17:11	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Jan 2, 2016	KBED	KBED	12:34	17:34	2.29 hrs	1.96 hrs	320.45 nm	34.18 gal	14.95 gal/hr	0.11 gal/nm	4519 msl	156 kts
+Thu, Dec 31, 2015	KBED	KBED	09:42	15:34	0.85 hrs	0.52 hrs	73.57 nm	23.15 gal	27.34 gal/hr	0.31 gal/nm	5530 msl	139 kts
+Thu, Dec 31, 2015			09:10	09:11	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Dec 30, 2015	KBED	KBED	14:57	15:14	0.28 hrs	0.00 hrs	0.00 nm	1.38 gal	4.94 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Dec 23, 2015			15:48	15:48	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Dec 22, 2015			17:08	17:09	0 hrs	0.00 hrs	0.00 nm	0.03 gal	8.61 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Dec 22, 2015			14:46	14:46	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Dec 22, 2015	KBED	KBED	11:22	11:34	0.2 hrs	0.00 hrs	0.00 nm	1.20 gal	5.97 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 21, 2015	KGWW	KBED	14:44	17:39	2.78 hrs	2.56 hrs	576.58 nm	51.73 gal	18.59 gal/hr	0.09 gal/nm	11050 msl	214 kts
+Mon, Dec 21, 2015	KLEE	KGWW	11:50	14:26	2.52 hrs	2.21 hrs	464.72 nm	44.64 gal	17.70 gal/hr	0.10 gal/nm	11049 msl	203 kts
+Thu, Dec 17, 2015	KGWW	KLEE	14:04	17:40	3.45 hrs	3.24 hrs	467.13 nm	63.60 gal	18.43 gal/hr	0.14 gal/nm	10043 msl	138 kts
+Thu, Dec 17, 2015	KBED	KGWW	08:41	13:29	4.61 hrs	4.09 hrs	566.07 nm	80.87 gal	17.54 gal/hr	0.14 gal/nm	10047 msl	133 kts
+Thu, Dec 17, 2015			08:19	08:19	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015	KBED	KBED	16:00	16:01	0.02 hrs	0.00 hrs	0.00 nm	0.06 gal	2.76 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015			14:33	14:48	0.25 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015			14:20	14:22	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015			13:58	13:59	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.03 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015			12:39	12:41	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Dec 14, 2015			11:11	11:11	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Dec 13, 2015			09:51	09:52	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Dec 9, 2015			15:25	15:28	0.05 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Dec 9, 2015			12:24	12:25	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Dec 6, 2015	KPSM	KBED	18:46	19:30	0.71 hrs	0.35 hrs	46.13 nm	7.20 gal	10.11 gal/hr	0.16 gal/nm	3008 msl	130 kts
+Sun, Dec 6, 2015	KBAF	KPSM	15:46	16:40	0.87 hrs	0.62 hrs	108.19 nm	11.69 gal	13.41 gal/hr	0.11 gal/nm	5007 msl	169 kts
+Sun, Dec 6, 2015	KPVD	KBAF	14:33	15:22	0.79 hrs	0.54 hrs	78.69 nm	10.58 gal	13.48 gal/hr	0.13 gal/nm	6010 msl	140 kts
+Sun, Dec 6, 2015			12:37	12:38	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Dec 5, 2015	KBAF	KPVD	17:00	17:42	0.67 hrs	0.48 hrs	76.07 nm	9.28 gal	13.81 gal/hr	0.12 gal/nm	5018 msl	152 kts
+Sat, Dec 5, 2015	KOQU	KBAF	15:45	16:32	0.76 hrs	0.51 hrs	76.71 nm	10.45 gal	13.78 gal/hr	0.14 gal/nm	6009 msl	144 kts
+Fri, Dec 4, 2015	N99	KOQU	13:43	15:47	1.98 hrs	1.57 hrs	274.39 nm	28.38 gal	14.31 gal/hr	0.10 gal/nm	7004 msl	166 kts
+Fri, Dec 4, 2015			13:29	13:29	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Dec 3, 2015	KJWN	N99	15:26	19:06	3.52 hrs	3.22 hrs	620.79 nm	58.04 gal	16.50 gal/hr	0.09 gal/nm	15064 msl	185 kts
+Thu, Dec 3, 2015			15:05	15:05	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Dec 2, 2015	KCHO	KJWN	16:17	20:08	3.74 hrs	3.47 hrs	461.66 nm	58.36 gal	15.62 gal/hr	0.13 gal/nm	10100 msl	130 kts
+Tue, Dec 1, 2015	KBED	KCHO	13:30	17:22	3.74 hrs	3.37 hrs	481.24 nm	55.61 gal	14.85 gal/hr	0.12 gal/nm	6084 msl	138 kts
+Tue, Dec 1, 2015	KBED	KBED	13:17	13:17	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Dec 1, 2015			08:55	08:57	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Mon, Nov 30, 2015	KVYS	KBED	16:13	21:13	4.81 hrs	4.00 hrs	807.62 nm	80.16 gal	16.66 gal/hr	0.10 gal/nm	15057 msl	195 kts
+Mon, Nov 30, 2015	KHDN	KVYS	09:17	14:06	4.55 hrs	4.19 hrs	845.03 nm	81.02 gal	17.81 gal/hr	0.10 gal/nm	17082 msl	191 kts
+Fri, Nov 27, 2015			15:53	15:54	0.02 hrs	0.00 hrs	0.00 nm	0.06 gal	3.76 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Nov 27, 2015	KHDN	KHDN	15:32	15:40	0.12 hrs	0.00 hrs	0.00 nm	0.35 gal	2.86 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Nov 27, 2015	KHDN	KHDN	14:43	14:58	0.24 hrs	0.00 hrs	0.00 nm	0.59 gal	2.46 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Nov 22, 2015	KIWA	KHDN	13:49	17:05	3.12 hrs	2.76 hrs	536.33 nm	55.21 gal	17.70 gal/hr	0.10 gal/nm	11700 msl	186 kts
+Sun, Nov 22, 2015	KIWA	KIWA	13:14	13:18	0.07 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Nov 20, 2015	KEGT	KIWA	15:56	20:41	4.5 hrs	4.30 hrs	759.57 nm	84.32 gal	18.75 gal/hr	0.11 gal/nm	13060 msl	167 kts
+Fri, Nov 20, 2015	I23	KEGT	11:05	15:39	4.4 hrs	4.17 hrs	693.97 nm	78.95 gal	17.96 gal/hr	0.11 gal/nm	5016 msl	161 kts
+Fri, Nov 20, 2015	KBED	I23	06:56	10:44	4.6 hrs	4.00 hrs	595.25 nm	59.53 gal	12.94 gal/hr	0.10 gal/nm	8054 msl	142 kts
+Wed, Nov 18, 2015			11:26	11:27	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Nov 18, 2015			11:23	11:25	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Wed, Nov 18, 2015			11:19	11:21	0.03 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Nov 17, 2015	KBED	KBED	19:35	20:24	0.8 hrs	0.36 hrs	51.64 nm	7.37 gal	9.23 gal/hr	0.14 gal/nm	2362 msl	139 kts
+Tue, Nov 17, 2015			19:28	19:31	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Nov 17, 2015	KBED	KBED	17:40	18:41	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Nov 15, 2015	KPSM	KBED	20:25	20:59	0.54 hrs	0.30 hrs	44.35 nm	6.07 gal	11.20 gal/hr	0.14 gal/nm	3038 msl	140 kts
+Sun, Nov 15, 2015	KPVD	KPSM	18:19	19:12	0.87 hrs	0.64 hrs	94.04 nm	12.97 gal	14.97 gal/hr	0.14 gal/nm	7012 msl	144 kts
+Sun, Nov 15, 2015			18:10	18:10	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Nov 15, 2015			12:01	12:01	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Nov 15, 2015			11:59	12:00	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Nov 15, 2015			11:51	11:51	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Nov 13, 2015	KTTN	KPVD	16:26	18:28	1.96 hrs	1.52 hrs	242.90 nm	27.14 gal	13.88 gal/hr	0.11 gal/nm	8014 msl	154 kts
+Fri, Nov 13, 2015	40N	KTTN	15:14	15:52	0.59 hrs	0.36 hrs	60.12 nm	7.19 gal	12.19 gal/hr	0.12 gal/nm	3737 msl	155 kts
+Fri, Nov 13, 2015	40N	40N	15:09	15:10	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Nov 13, 2015	KTTN	40N	13:04	13:50	0.74 hrs	0.46 hrs	60.54 nm	8.97 gal	12.17 gal/hr	0.15 gal/nm	4017 msl	129 kts
+Fri, Nov 13, 2015	KBED	KTTN	11:05	16:05	1.99 hrs	1.62 hrs	236.60 nm	10.43 gal	5.25 gal/hr	0.04 gal/nm	10066 msl	140 kts
+Thu, Nov 12, 2015			15:12	15:14	0.04 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 31, 2015			19:14	19:14	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 31, 2015	KLWM	KBED	16:01	16:27	0.42 hrs	0.14 hrs	16.82 nm	3.15 gal	7.43 gal/hr	0.19 gal/nm	2014 msl	119 kts
+Sat, Oct 31, 2015	KLWM	KLWM	15:49	15:49	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 31, 2015	KBED	KBED	15:33	19:33	1.8 hrs	1.46 hrs	234.55 nm	25.25 gal	14.00 gal/hr	0.11 gal/nm	4508 msl	155 kts
+Sat, Oct 31, 2015	KBED	KLWM	14:43	15:43	0.98 hrs	0.53 hrs	77.91 nm	10.93 gal	11.21 gal/hr	0.14 gal/nm	5509 msl	142 kts
+Sat, Oct 31, 2015	KBED	KBED	14:30	14:31	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Oct 27, 2015	KBED	KBED	12:21	17:14	0.86 hrs	0.46 hrs	68.12 nm	20.89 gal	24.34 gal/hr	0.31 gal/nm	6621 msl	142 kts
+Tue, Oct 27, 2015	KBED	KBED	12:09	12:11	0.02 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Oct 27, 2015	KASH	KBED	08:21	08:52	0.51 hrs	0.22 hrs	30.98 nm	3.89 gal	7.62 gal/hr	0.13 gal/nm	2210 msl	134 kts
+Mon, Oct 26, 2015	KASH	KASH	13:01	13:10	0.16 hrs	0.00 hrs	0.00 nm	0.90 gal	5.81 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 24, 2015	KASH	KASH	16:35	16:42	0.11 hrs	0.00 hrs	0.00 nm	0.69 gal	6.20 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 24, 2015	KASH	KASH	16:05	16:27	0.37 hrs	0.00 hrs	0.00 nm	1.28 gal	3.44 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 24, 2015			16:03	16:03	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 24, 2015	KASH	KASH	16:01	16:01	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 24, 2015	KASH	KASH	15:41	15:41	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sun, Oct 18, 2015	KBED	KASH	12:14	12:46	0.54 hrs	0.20 hrs	22.55 nm	3.45 gal	6.41 gal/hr	0.15 gal/nm	2741 msl	114 kts
+Sun, Oct 18, 2015			11:48	11:48	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Fri, Oct 16, 2015	KBED	KBED	12:11	12:23	0.2 hrs	0.00 hrs	0.00 nm	1.18 gal	6.04 gal/hr	0.00 gal/nm	0 msl	0 kts
+Tue, Oct 13, 2015	1G5	KBED	16:49	19:51	2.89 hrs	2.71 hrs	497.96 nm	41.89 gal	14.49 gal/hr	0.08 gal/nm	11010 msl	176 kts
+Tue, Oct 13, 2015	0I4	1G5	13:36	16:31	2.79 hrs	2.54 hrs	486.13 nm	41.77 gal	14.97 gal/hr	0.09 gal/nm	11013 msl	183 kts
+Tue, Oct 13, 2015	KSBS	0I4	08:47	13:09	4.16 hrs	3.86 hrs	684.22 nm	62.95 gal	15.13 gal/hr	0.09 gal/nm	11504 msl	169 kts
+Tue, Oct 13, 2015	KSBS	KSBS	08:24	08:24	0 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Sat, Oct 10, 2015	KSBS	KSBS	12:27	13:30	1 hrs	0.75 hrs	115.76 nm	14.65 gal	14.60 gal/hr	0.13 gal/nm	12515 msl	149 kts
+Sat, Oct 10, 2015	KSBS	KSBS	11:53	11:53	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Oct 8, 2015	KOKS	KSBS	18:20	19:54	1.46 hrs	1.33 hrs	236.39 nm	26.79 gal	18.41 gal/hr	0.11 gal/nm	12014 msl	166 kts
+Thu, Oct 8, 2015	KAWG	KOKS	14:40	17:57	3.17 hrs	2.96 hrs	485.05 nm	55.66 gal	17.55 gal/hr	0.11 gal/nm	6529 msl	159 kts
+Thu, Oct 8, 2015	1G5	KAWG	10:53	14:07	3.12 hrs	2.87 hrs	456.32 nm	54.22 gal	17.41 gal/hr	0.12 gal/nm	6514 msl	154 kts
+Thu, Oct 8, 2015	KBED	KBED	10:40	10:47	0.11 hrs	0.00 hrs	0.00 nm	0.26 gal	2.34 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Oct 8, 2015			10:04	10:04	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
+Thu, Oct 8, 2015	KBED	1G5	07:23	11:23	3.35 hrs	2.94 hrs	487.74 nm	5.70 gal	1.70 gal/hr	0.01 gal/nm	6732 msl	158 kts
+Wed, Oct 7, 2015	KCON	KBED	19:39	20:23	0.72 hrs	0.41 hrs	58.27 nm	7.20 gal	9.96 gal/hr	0.12 gal/nm	3414 msl	139 kts
+Wed, Oct 7, 2015	KBED	KCON	17:37	19:14	1.57 hrs	1.22 hrs	155.29 nm	18.22 gal	11.58 gal/hr	0.12 gal/nm	6598 msl	124 kts
+Wed, Oct 7, 2015	KBED	KBED	17:15	17:16	0.01 hrs	0.00 hrs	0.00 nm	0.00 gal	0.00 gal/hr	0.00 gal/nm	0 msl	0 kts
